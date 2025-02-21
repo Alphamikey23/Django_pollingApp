@@ -1,0 +1,1 @@
+Django presentation voting app for individual users, who can vote only once for each question and can't view the total votes project
